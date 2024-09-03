@@ -1,0 +1,21 @@
+Metadata for MSc Thesis and supplementary information 
+
+KMZ of features
+- monogenetic vents (digitised from Carn 2000, Carn & Pyle 2001, Gurusinga et al., 2023) 
+- surface fractures, faults, lineaments (digitised and compiled from Carn 2000, Ilhan & Niasari 2018, Rochman et al., 2021, Gurusinga et al., 2023)
+- hydrothermal features (digitised and compiled from Munazyi et al., 2016, Siombone et al., 2021, Way et al., 2022)
+- preliminary and relocated earthquakes on 2019/11/13 from BMKG 
+- proposed surface traces of 2019 dikes, and possible fracture (this study) 
+
+InSAR (geotiffs) interferograms for P105D and P54A. Cropped to AOI 
+- LiCSAR interferograms: filtered wrapped (*diff_pha_crop)and unwrapped (*unw_crop). 
+- Reprocessed interferograms with coherence threshold 0.01, phase (*unw_0.01) and LOS displacements (*unw_0.01.los) 
+- Corrected interferograms for unwrapping errors (*unw_0.01.los.corrected)
+- Interferogram stack, LOS displacements (*stack)
+
+Additional InSAR data 
+- LiCSBAS output: average coherence for P105 (ifg_stats.txt)
+
+Inversion for source parameters
+- GBIS input files and outputs (best fitting parameters, PDFs, convergence plots)  
+
